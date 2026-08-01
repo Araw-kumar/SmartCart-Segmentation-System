@@ -16,6 +16,10 @@ on this basis of that shopping company take correct decision regrading to custom
 2. Open the notebook in Google Colab.
 3. Run all cells to train and test the model.
 
+## Dataset
+The dataset 'smartcart_customers.csv' is not stored in this repository (ignored via .gitignore).
+You can download it from: [Kaggle Link](https://www.kaggle.com/datasets/mdadnan96/smartcart-customers-csv)
+
 ## Results / Output
 Here is the 3D-Projection plot of the model:
 ![3D-Projection plot](Images/output.png)
